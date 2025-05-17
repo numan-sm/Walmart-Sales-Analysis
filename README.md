@@ -1,14 +1,12 @@
 
-# 🛒 Walmart Sales Performance Analysis Using Advanced MySQL Techniques
+# Walmart Sales Performance Analysis Using Advanced MySQL Techniques
 
-## 📑 Project Overview
+## Project Overview
 
-This project analyzes sales performance, customer behavior, and product trends for Walmart using **Advanced MySQL Queries**. 
-The goal is to generate **actionable insights** that can help Walmart optimize its sales strategy across branches, customer segments, and product lines.
-
+This project utilizes advanced MySQL queries to examine Walmart’s sales performance, customer behavior, and product trends. The objective is to derive actionable insights that enhance sales strategies across various branches, customer segments, and product categories.
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Walmart-Sales-Performance-Analysis/
@@ -23,22 +21,17 @@ Walmart-Sales-Performance-Analysis/
 │   ├── Task 8.sql               # Identifying Repeat Customers
 │   ├── Task 9.sql               # Top 5 Customers by Sales Volume
 │   ├── Task 10.sql              # Sales Trends by Day of Week
-├── Dataset/
-│   ├── walmartsales.csv         # Provided dataset for the project
-├── Project.pdf                    # Problem Statement
-├── Presentation.pptx              # Final Report with Queries + Results + Insights
-├── README.md
 ```
 
 ---
 
-## 📥 Dataset
+## Dataset
 
 The dataset `walmartsales.csv` is included in the `Dataset/` folder. This allows anyone to directly run the provided queries on the actual data.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Walmart wants to optimize its sales strategies by understanding:
 - Which branch shows the highest sales growth?
@@ -49,7 +42,7 @@ Walmart wants to optimize its sales strategies by understanding:
 
 ---
 
-## ✅ Tasks Performed (with Queries)
+## Tasks Performed (with Queries)
 
 | Task No. | Description |
 |---|---|
@@ -66,7 +59,7 @@ Walmart wants to optimize its sales strategies by understanding:
 
 ---
 
-## 📊 Techniques Used
+## Methods Applied  
 
 ✅ Subqueries  
 ✅ Common Table Expressions (CTEs)  
@@ -78,7 +71,7 @@ Walmart wants to optimize its sales strategies by understanding:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - Branch C had the **highest sales growth** over the analysis period.
 - Product Line Y was the **most profitable** across all branches.
@@ -88,32 +81,12 @@ Walmart wants to optimize its sales strategies by understanding:
 
 ---
 
-## 💻 Tools Used
+## Tools Used
 
 - **MySQL** (Data Analysis)  
 - **PowerPoint** (Presentation)  
 - **Google Sheets/Excel** (Data Review)
 
 ---
-
-## 👨‍💻 Author
-
-- Himanshu Jagga 
-- https://www.linkedin.com/in/himanshu-jagga-b08ab6170/
-
----
-
-## ⭐️ How to Use This Repository
-
-1. Clone the repository.  
-2. Open the `Queries/` folder and review all SQL queries.  
-3. Use `walmartsales.csv` in your MySQL database to run these queries.  
-4. Review `Presentation.pptx` for visualizations and key insights.  
-5. Review `README.md` for project overview.  
-
----
-
-## 📬 Contact
-
-For feedback or collaboration, feel free to connect!  
+ 
 
